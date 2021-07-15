@@ -26,31 +26,18 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> 
 
+**Github Stats:**
 
-
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://github.com/ManaliAundhkar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManaliAundhkar&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/ManaliAundhkar">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManaliAundhkar&show_icons=true&theme=light&line_height=27" alt="Omkar's github stats"/>
+</a>
 
 <br />
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Manali's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
-
-</details>
-
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
+[linkedin]: https://linkedin.com/in/manali-aundhkar-220878175
+[portfolio]: https://ManaliAundhkar.github.io/profile/
