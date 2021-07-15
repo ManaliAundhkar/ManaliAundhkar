@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/ManaliAundhkar/ManaliAundhkar/blob/main/coder.gif" width="500" height="320" />
 
 
-## I'm a Wife, Mother, Developer, Creator, and Mentor!!
+## I'm a Developer, Creator, and Mentor!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Native and Azure
