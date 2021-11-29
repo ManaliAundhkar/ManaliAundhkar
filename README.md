@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on <a href='https://www.linkedin.com/in/manali-aundhkar-220878175/' target=_blank><u>linkedin</u> </a>
 
-- 💬 Ask me about anything, I am happy to help.
-
 - 📫 Please email via manaliaundhkar@gmail.com to reach me.
 
 - 😄 Pronouns: She/Her
