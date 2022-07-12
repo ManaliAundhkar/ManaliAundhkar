@@ -6,7 +6,7 @@
 ## I'm a Developer and a Student !!
 - 🔭 I’m currently working on programming skills.
 
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning CSharp.
 
 - 👯 I’m looking to collaborate on <a href='https://www.linkedin.com/in/manali-aundhkar-220878175/' target=_blank><u>linkedin</u> </a>
 
