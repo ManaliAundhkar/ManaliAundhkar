@@ -1,6 +1,6 @@
 ### Hello , I'm Manali Aundhkar 👋
 
- <img align="right" alt="GIF" src="https://github.com/ManaliAundhkar/ManaliAundhkar/blob/main/coder.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="coder.gif" width="500" height="320" />
 
 
 ## I'm a Developer and a Student !!
